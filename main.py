@@ -9,7 +9,7 @@ print(finish_time)
 
 hosts = r'C:\Windows\System32\drivers\etc\hosts'
 # hosts = 'hosts.txt'
-redirect_url = '127.0.0.1'
+redirect_url = 'H A C K'
 
 blocked_sites = ['www.youtube.com', 'youtube.com', 'www.vk.com', 'vk.com']
 
